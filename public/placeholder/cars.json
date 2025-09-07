@@ -1,0 +1,4 @@
+[
+  { "id": "bmw-3-series", "brand": "BMW", "model": "3 Series", "price": 200000 },
+  { "id": "toyota-vios",  "brand": "Toyota", "model": "Vios", "price": 80000 }
+]
